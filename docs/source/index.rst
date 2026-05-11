@@ -25,3 +25,9 @@ SpatialCOC - A Tool for Spatial Multi-omics Data Integration
    :caption: Tutorials
    
    Tutorials.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Reproduction
+
+   Reproduction.rst
