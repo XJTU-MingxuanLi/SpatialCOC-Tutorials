@@ -28,7 +28,7 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-nbsphinx_sections_depth = 0
+nbsphinx_sections_depth = 1
 
 # -- Options for HTML output
 
