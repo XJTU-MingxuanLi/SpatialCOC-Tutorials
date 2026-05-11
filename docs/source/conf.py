@@ -36,7 +36,7 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 html_theme_options = {
-    "navigation_depth": 3,
-    "collapse_navigation": False,
+    "navigation_depth": 1,
+    "collapse_navigation": True,
     "sticky_navigation": True  
 }
